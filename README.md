@@ -7,7 +7,7 @@
   <a href="https://youtube.com/@dashaapelsin5691?si=htztSH1VMPA_mDN-">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="@luzezz">
+  <a href="https://t.me/luzezz">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
