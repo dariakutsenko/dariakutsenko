@@ -32,7 +32,7 @@
  - 🫟: In my free time, I enjoy drawing and cooking something tasty, play mobile games.
  - 🪸: Always learning and exploring new things in design and development.
    
-- 🔍:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-luzezz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/luzezz)
+- 🔍: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-luzezz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/luzezz)
   </div>
 ---
 
