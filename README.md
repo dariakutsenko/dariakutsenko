@@ -26,17 +26,17 @@
   </div>
   <div>
     
- - 👩‍🎓: I’m currently studying at Irkutsk State University.
+ - 👩‍🎓: I’m currently studying at Irkutsk State University (ИГУ).
 
 - 🌟: Exploring graphical design.
 
-- 🍹: In my free time, I draw or cook something tasty.
+- 🍹: In my free time, I like to draw or cook something tasty.
 
 - 🔍:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-luzezz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/luzezz)
   </div>
 ---
 
-  :hammer_and_wrench: Languages and Tools :
+  Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -46,4 +46,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </div>
