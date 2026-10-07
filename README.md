@@ -36,9 +36,9 @@
   </div>
 ---
 
-  Languages and Tools :
+  Technology stack :
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  Python <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
