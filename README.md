@@ -26,12 +26,12 @@
   </div>
   <div>
     
- - 👩‍🎓: I’m currently studying at Irkutsk State University (ИГУ).
-
-- 🌟: Exploring graphical design.
-
-- 🍹: In my free time, I like to draw or cook something tasty.
-
+ - 👩‍🎓: I’m a second-year student at Irkutsk State University (ИГУ), majoring in Applied Informatics in Design.
+ - 👩🏼‍💻: Practicing web development, creating websites and landing pages with HTML and CSS.
+ - 🐧: I'm also studying operating systems, command-line tools, Linux and Bash.
+ - 🫟: In my free time, I enjoy drawing and cooking something tasty, play mobile games.
+ - 🪸: Always learning and exploring new things in design and development.
+   
 - 🔍:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-luzezz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/luzezz)
   </div>
 ---
